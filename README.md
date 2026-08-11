@@ -73,8 +73,8 @@ Based on the identified entities and business requirements, a conceptual and log
 * **Relational Mapping:** Clean 1:N (One-to-Many) and N:M (Many-to-Many) mappings implemented for doctors, appointments, and medical records.
 
 📄 **View the Full Architectural Diagram:**  
-<img width="1263" height="877" alt="Screenshot 2026-08-10 213205" src="https://github.com/user-attachments/assets/9483f5fb-1df3-4916-910b-6b212f6f74dd" />
 
+<img width="1263" height="877" alt="Screenshot 2026-08-10 213205" src="https://github.com/user-attachments/assets/9483f5fb-1df3-4916-910b-6b212f6f74dd" />
 
 [📥 Download (PDF)]
 [ER (1).pdf](https://github.com/user-attachments/files/30904996/ER.1.pdf)
